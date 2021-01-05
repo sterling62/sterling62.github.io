@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-08:27:32	47/47	---MCZ	200	added ('OK')	text/plain	etag:W/%225ff3b47e-1b%22	http://preview.themeforest.net/robots.txt		(from )
-08:27:33	34816/34816	---MCZ	200	added ('OK')	text/html	etag:W/%220eb1c0d19d2e1fd6b9f98cc1daeec4df%22	http://preview.themeforest.net/item/zview-personal-modern-creative-cvresume-html-template/full_screen_preview/27925470?_ga=2.40334955.855818063.1609809598-335035572.1608710928	D:/HTTrackWeb/1/Web1/preview.themeforest.net/item/zview-personal-modern-creative-cvresume-html-template/full_screen_preview/279254705f4a.html	(from )
